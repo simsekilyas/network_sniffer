@@ -29,7 +29,7 @@ Ensure you have `libpcap` installed on your system. On Linux, you can install it
    ```sh
    cargo build
    ```
-   The compiled binary will be located in the `target/release` directory.
+   The compiled binary will be located in the `target/debug` directory.
 
 
 ## How to Run
